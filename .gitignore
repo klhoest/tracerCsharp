@@ -1,0 +1,14 @@
+inputBW.png
+out.png
+smileGreyCutRGB.tiff
+inputBW.c
+inputRGB.png
+*.xcf
+*.jpg
+
+/bin/*
+/doc/assets/*
+/obj/*
+arielLowRes.bmp
+inputBW.bmp
+smileGreyCutRGB.bmp
